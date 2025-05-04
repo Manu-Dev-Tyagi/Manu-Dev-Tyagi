@@ -17,7 +17,9 @@ Hi there, I'm Manu Dev Tyagi 👋
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,prisma,mongodb,postgres,docker,kubernetes,aws,git,github,linux,solidity" /> </p>
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Manu-Dev-Tyagi&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manu-Dev-Tyagi&theme=tokyonight" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manu-Dev-Tyagi&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
+
 🚀 Featured Projects
+
 📌 Full-Stack Collaborative Drawing App
 Real-time drawing app using Next.js, WebSockets, and PostgreSQL via Prisma.
 
